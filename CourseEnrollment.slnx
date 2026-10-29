@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="CourseEnrollment/src/CourseEnrollment.Core/CourseEnrollment.Core.csproj" />
+  <Project Path="CourseEnrollment/src/CourseEnrollment.Api/CourseEnrollment.Api.csproj" />
+  <Project Path="CourseEnrollment/tests/CourseEnrollment.Tests/CourseEnrollment.Tests.csproj" />
+</Solution>
